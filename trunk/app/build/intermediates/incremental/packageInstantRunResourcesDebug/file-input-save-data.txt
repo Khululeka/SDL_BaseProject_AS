@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Wed Aug 30 15:23:52 CEST 2017
+1.base=F\:\\Users\\rjv\\Documents\\Programming\\SDL\\as_projects\\SDL_Template_Copy\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=F\:\\Users\\rjv\\Documents\\Programming\\SDL\\as_projects\\SDL_Template_Copy\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.file=F\:\\Users\\rjv\\Documents\\Programming\\SDL\\as_projects\\SDL_Template_Copy\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.set=ANDROID_RESOURCE
+2.base=F\:\\Users\\rjv\\Documents\\Programming\\SDL\\as_projects\\SDL_Template_Copy\\app\\build\\intermediates\\assets\\debug
+3.set=ANDROID_RESOURCE
+2.set=ASSET
+2.file=F\:\\Users\\rjv\\Documents\\Programming\\SDL\\as_projects\\SDL_Template_Copy\\app\\build\\intermediates\\assets\\debug\\52_hello_mobile\\hello.bmp
+count=5
+1.set=ANDROID_RESOURCE
+3.base=F\:\\Users\\rjv\\Documents\\Programming\\SDL\\as_projects\\SDL_Template_Copy\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=F\:\\Users\\rjv\\Documents\\Programming\\SDL\\as_projects\\SDL_Template_Copy\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=F\:\\Users\\rjv\\Documents\\Programming\\SDL\\as_projects\\SDL_Template_Copy\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+0.file=F\:\\Users\\rjv\\Documents\\Programming\\SDL\\as_projects\\SDL_Template_Copy\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+4.base=F\:\\Users\\rjv\\Documents\\Programming\\SDL\\as_projects\\SDL_Template_Copy\\app\\build\\intermediates\\res\\resources-debug.ap_
