@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "F:\\Users\\rjv\\Documents\\GitHub\\SDL_BaseProject_AS\\trunk\\app\\build\\intermediates\\incremental\\mergeArm64DebugResources\\merged.dir\\values-w360dp-v13\\values-w360dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\rjv\\.android\\build-cache\\dd0acb15e65a0c25c903df6ebaaae5755efb3822\\output\\res\\values-w360dp-v13\\values-w360dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            }
+        ]
+    }
+]

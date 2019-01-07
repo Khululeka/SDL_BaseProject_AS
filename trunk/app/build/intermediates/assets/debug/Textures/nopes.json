@@ -1,0 +1,39 @@
+{"frames": [
+
+{
+	"filename": "nope1.png",
+	"frame": {"x":0,"y":0,"w":80,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":50},
+	"sourceSize": {"w":80,"h":50},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "nope2.png",
+	"frame": {"x":80,"y":0,"w":80,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":50},
+	"sourceSize": {"w":80,"h":50},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "nope3.png",
+	"frame": {"x":160,"y":0,"w":80,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":50},
+	"sourceSize": {"w":80,"h":50},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "nope1.png",
+	"format": "RGBA8888",
+	"size": {"w":240,"h":50},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:782ff3cd59464d0387028b794ceb136a:01d6bfbacf10eeba9a805f5b68c8079b:1a82744f2e9f6bfdcb3d0668152052a9$"
+}
+}

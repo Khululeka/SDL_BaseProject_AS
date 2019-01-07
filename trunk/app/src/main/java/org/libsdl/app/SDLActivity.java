@@ -73,7 +73,7 @@ public class SDLActivity extends Activity {
         return new String[] {
             "SDL2",
             "SDL2_image",
-            // "SDL2_mixer",
+            "SDL2_mixer",
             // "SDL2_net",
             // "SDL2_ttf",
             "main"
@@ -1016,6 +1016,58 @@ public class SDLActivity extends Activity {
 
         return dialog;
     }
+
+
+
+
+
+
+
+
+
+
+//START OF CODE BY RJV
+    public String [] list_assets(String path, boolean get_directories, boolean get_files) {
+        List<String> files = new java.util.LinkedList<String>();
+
+        if(path.length() > 1 && path.charAt(path.length()-1) == '/')
+            path = path.substring(0, path.length()-1);
+
+        try {
+            String [] ls = getAssets().list(path);
+
+            for(String file : ls) {
+// Lame problem...Â  AssetManager::list() is super slow (does it unpack the whole apk each time?).
+// This is a lame workaround, but assumes files have extensions and directories don't.
+                boolean has_dot = file.contains(".");
+                if((get_files && has_dot) || (get_directories && !has_dot))
+                    files.add(file);
+
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        return files.toArray(new String[files.size()]);
+    }
+//END OF CODE BY RJV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
 
 /**
@@ -1740,3 +1792,5 @@ class SDLGenericMotionListener_API12 implements View.OnGenericMotionListener {
         return false;
     }
 }
+
+

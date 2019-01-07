@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="F:\Users\rjv\Documents\Programming\SDL\as_projects\SDL_Template_Copy\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="F:\Users\rjv\Documents\Programming\SDL\as_projects\SDL_Template_Copy\app\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="F:\Users\rjv\Documents\GitHub\SDL_BaseProject_AS\trunk\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="F:\Users\rjv\Documents\GitHub\SDL_BaseProject_AS\trunk\app\src\debug\shaders"/></dataSet></merger>

@@ -1,6 +1,6 @@
-F:/Users/rjv/Documents/Programming/SDL/as_projects/SDL_Template_Copy/app/build/intermediates/ndkBuild/debug/obj/local/mips/objs-debug/main/Helpers/Stringify.o: \
-  F:/Users/rjv/Documents/Programming/SDL/as_projects/SDL_Template_Copy/app/src/main/jni/src/Helpers/Stringify.cpp \
-  F:/Users/rjv/Documents/Programming/SDL/as_projects/SDL_Template_Copy/app/src/main/jni/src/Helpers/Stringify.h \
+F:/Users/rjv/Documents/GitHub/SDL_BaseProject_AS/trunk/app/build/intermediates/ndkBuild/debug/obj/local/mips/objs-debug/main/Helpers/Stringify.o: \
+  F:/Users/rjv/Documents/GitHub/SDL_BaseProject_AS/trunk/app/src/main/jni/src/Helpers/Stringify.cpp \
+  F:/Users/rjv/Documents/GitHub/SDL_BaseProject_AS/trunk/app/src/main/jni/src/Helpers/Stringify.h \
   F:/Users/rjv/AppData/Local/Android/sdk/ndk-bundle/build//../sources/cxx-stl/stlport/stlport\iostream \
   F:/Users/rjv/AppData/Local/Android/sdk/ndk-bundle/build//../sources/cxx-stl/stlport/stlport\stl/_prolog.h \
   F:/Users/rjv/AppData/Local/Android/sdk/ndk-bundle/build//../sources/cxx-stl/stlport/stlport\stl/_cprolog.h \
@@ -112,7 +112,7 @@ F:/Users/rjv/Documents/Programming/SDL/as_projects/SDL_Template_Copy/app/build/i
   F:/Users/rjv/AppData/Local/Android/sdk/ndk-bundle/build//../sources/cxx-stl/stlport/stlport\stl/_bvector.h \
   F:/Users/rjv/AppData/Local/Android/sdk/ndk-bundle/build//../sources/cxx-stl/stlport/stlport\stl/_relops_cont.h
 
-F:/Users/rjv/Documents/Programming/SDL/as_projects/SDL_Template_Copy/app/src/main/jni/src/Helpers/Stringify.h:
+F:/Users/rjv/Documents/GitHub/SDL_BaseProject_AS/trunk/app/src/main/jni/src/Helpers/Stringify.h:
 
 F:/Users/rjv/AppData/Local/Android/sdk/ndk-bundle/build//../sources/cxx-stl/stlport/stlport\iostream:
 
