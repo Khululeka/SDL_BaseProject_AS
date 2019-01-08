@@ -1,3 +1,4 @@
 trunk\build
 trunk\app\build
 trunk\.gradle
+.externalNativeBuild
