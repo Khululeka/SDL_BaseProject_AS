@@ -1,8 +1,0 @@
-F:/Users/rjv/Documents/GitHub/SDL_BaseProject_AS/trunk/app/build/intermediates/ndkBuild/debug/obj/local/mips64/objs-debug/main/cpp_files/SDL_Engine/Engine/Box2D/Common/b2Timer.o: \
- F:/Users/rjv/Documents/GitHub/SDL_BaseProject_AS/trunk/app/src/main/jni/src/cpp_files/SDL_Engine/Engine/Box2D/Common/b2Timer.cpp \
- src/main/jni/src/cpp_files/SDL_Engine/engine/Box2D/Common/b2Timer.h \
- src/main/jni/src/cpp_files/SDL_Engine/engine/Box2D/Common/b2Settings.h
-
-src/main/jni/src/cpp_files/SDL_Engine/engine/Box2D/Common/b2Timer.h:
-
-src/main/jni/src/cpp_files/SDL_Engine/engine/Box2D/Common/b2Settings.h:

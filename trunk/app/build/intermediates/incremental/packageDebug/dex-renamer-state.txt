@@ -1,7 +1,0 @@
-#Mon Jan 07 16:59:41 CET 2019
-base.0=F\:\\Users\\rjv\\Documents\\GitHub\\SDL_BaseProject_AS\\trunk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e4a65c3845be4229c42de1ee49575aa04ee5ccc0
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=F\:\\Users\\rjv\\Documents\\GitHub\\SDL_BaseProject_AS\\trunk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_160cc950f3e079fb4596f453879b9dd0305220a5\\classes.dex
-base.1=F\:\\Users\\rjv\\Documents\\GitHub\\SDL_BaseProject_AS\\trunk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_160cc950f3e079fb4596f453879b9dd0305220a5
-file.0=F\:\\Users\\rjv\\Documents\\GitHub\\SDL_BaseProject_AS\\trunk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e4a65c3845be4229c42de1ee49575aa04ee5ccc0\\classes.dex
